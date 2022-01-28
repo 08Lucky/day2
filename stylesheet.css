@@ -1,7 +1,16 @@
 h1{
     font-family: 'Times New Roman', Times, serif;
     font-weight: bolder;
+    color: red;
 }
-p{
-    font-family: Georgia, 'Times New Roman', Times, serif;
+h3{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    color: red;
+}
+dl{
+    padding: 07px;
+}
+dt{
+    padding: 3px;
 }
